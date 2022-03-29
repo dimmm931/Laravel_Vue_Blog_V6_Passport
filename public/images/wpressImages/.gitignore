@@ -1,0 +1,16 @@
+# Ignore everything in this directory
+*
+# Except this file
+!.gitignore
+
+# And don't ignore not these files...
+!product1.png
+!product2.png
+!product3.png
+!product4.png
+!product5.png
+!product6.png
+!product7.jpg
+!product8.jpg
+!product9.jpg
+!product10.jpg
