@@ -1,14 +1,12 @@
-## Laravel Blog on Vue JS
+## Blogging CMS platform on Laravel/Vue JS
 
-> Uses Vue JS, Vuex Store, Vue Router, Passport Api Bearer token Header Authentication, Spatie RBAC, UI Toolkit Element-UI.
+> Uses Vue JS, Vuex Store, Vue Router, Passport Api Bearer token Header Authentication, Spatie RBAC, UI Toolkit Element-UI, LightBox library.
+> Users can view all DB records and create new. Admin can edit and delete records.
 
 ### Content
 - [1. Installation manual](#1-installation-manual)
 - [2. Screenshots](#2-screenshots) 
 - [3. Specifics](#3-specifics-description) 
-
-
-
 
 
 ## 1. Installation Manual
@@ -23,8 +21,6 @@
 - <p>If encounter error <b> cross-env not found </b> , firstly run command <b>npm i cross-env --save</b> </p>
 - <p>To init Passport seetings, run <b> php artisan passport:install </b> </p>
 - <p> You may login as Admin with credential: login <b>test@gmail.com</b>, password <b>testtest</b> </p>
-
-
 
 
 ## 2. Screenshots
